@@ -1,0 +1,6 @@
+C:\Users\nyb15KovácsG\Documents\git>git clone "https://github.com/kovacsgaborab/01Feladat.git"
+Cloning into '01Feladat'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 596 bytes | 4.00 KiB/s, done.
